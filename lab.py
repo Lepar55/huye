@@ -23,5 +23,4 @@ elif d==0:
     pr1()
 elif d<0:
     print("Коренів немає")
-print(1)
 
